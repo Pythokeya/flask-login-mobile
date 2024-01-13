@@ -139,7 +139,7 @@ pyttsx3
 pytweening
 pytz
 pytz-deprecation-shim
-pywin32
+pypiwin32
 PyYAML
 pyzmq
 qrcode
